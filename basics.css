@@ -1,0 +1,27 @@
+body{
+    background-color: grey;
+    background-image: url();
+         color:red;
+  }
+  p{
+    font-size: 16px
+   
+  }
+  section{
+     font-style: italic;
+    
+  }
+  .second_paragraph {
+    background-color:green;
+  }
+  }
+  article{
+     background-color: yellow;
+         color:black;
+    text-decoration: underline;
+  }
+  p{
+     background-color:white;
+   
+  }
+  
